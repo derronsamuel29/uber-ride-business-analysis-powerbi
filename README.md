@@ -82,25 +82,28 @@ Analyzes ride activity and performance across different locations.
 
 ---
 
+
 ## 📸 Dashboard Preview
 
 ### Home Page
-![Uber Home Page](Screenshots/uber-home-page.png)
+![Uber Home Page](Screenshots/uber%20home%20page.png)
 
 ### Overview
-![Uber Overview](Screenshots/uber-overview.png)
+![Uber Overview](Screenshots/uber%20overview.png)
 
 ### Vehicle Analysis
-![Uber Vehicle Analysis](Screenshots/uber-vehicle.png)
+![Uber Vehicle Analysis](Screenshots/uber%20vehicle.png)
 
 ### Revenue Analysis
-![Uber Revenue Analysis](Screenshots/uber-revenue.png)
+![Uber Revenue Analysis](Screenshots/uber%20revenue.png)
 
 ### Rider Analysis
-![Uber Rider Analysis](Screenshots/uber-riders.png)
+![Uber Riders Analysis](Screenshots/uber%20riders.png)
 
 ### Location Analysis
-![Uber Location Analysis](Screenshots/uber-location.png)
+![Uber Location Analysis](Screenshots/uber%20location.png)
+
+
 
 ---
 
